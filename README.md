@@ -8,3 +8,4 @@
 (2) behavior and diease component loading at data/python_entropy_analysis <br />
 (3) data/1000_iter_11-18.npy is output of noise simulation strategy <br /> 
 
+![Image of Yaktocat](figures/linear_model.png)
