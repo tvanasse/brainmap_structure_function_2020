@@ -2,7 +2,7 @@
 # Code
 (1) img_correlation_testing.ipynb is script testing correspondence between functional and structural components <br />
 (2) entropy_calculation.ipynb is script calculating disease/behavior diversity of components <br /> 
-(3) linear_model calculates linear model and cook's distance plot <br />
+(3) linear_model.ipynb calculates disease/behavior diversity association <br />
 
 # Data
 (1) data folder stores structural and functional images (also available at: http://anima.fz-juelich.de/studies/Vanasse_Fox_2019 ) <br />
