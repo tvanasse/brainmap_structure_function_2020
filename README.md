@@ -8,10 +8,12 @@
 (1) data folder stores structural and functional images (also available at: http://anima.fz-juelich.de/studies/Vanasse_Fox_2019 ) <br />
 (2) behavior and diease component loading at data/python_entropy_analysis <br />
 (3) data/1000_iter_11-18.npy is output of noise simulation strategy <br /> 
+(4) energetic_cost_power_model.ipynb runs metabolic association test <br /> 
 
 # Manuscript Figures
 ![Figure 2](figures/linear_model_75perc_nomedvis.png)
 ![Figure 2](figures/linear_model_75perc.png)
+![Figure 4](figures/figure_4.png)
 
 ## Suplmentary Figure 1
 ![Suplementary Figure 1](figures/sup_figure_1.png)
