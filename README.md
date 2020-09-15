@@ -11,6 +11,7 @@
 (3) data/1000_iter_11-18.npy is output of noise simulation strategy <br />  
 
 # Manuscript Figures
+!(figures/figure_5.png)
 ![Figure 2](figures/linear_model_75perc_nomedvis.png)
 ![Figure 2](figures/linear_model_75perc.png)
 ![Figure 4](figures/figure_4.png)
