@@ -1,4 +1,4 @@
-# "Correspondence of functional co-activation and structural co-alteration brain networks: A transdiagnostic meta-analysis" by Vanasse et al.
+# "Brain pathology recapitulates physiology: A network meta-analysis" by Vanasse & Fox et al. (2020) 
 # Code
 (1) img_correlation_testing.ipynb is script testing correspondence between functional and structural components <br />
 (2) entropy_calculation.ipynb is script calculating disease/behavior diversity of components <br /> 
