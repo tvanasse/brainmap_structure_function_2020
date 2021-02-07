@@ -6,7 +6,7 @@
 (4) energetic_cost_power_model.ipynb performs metabolic association test <br />
 
 # Data
-(1) data folder stores structural and functional images (also available at: http://anima.fz-juelich.de/studies/Vanasse_Fox_2019 ) <br />
+(1) data folder stores structural and functional images (also available at: http://brainmap.org/pubs/ or http://anima.fz-juelich.de/studies/Vanasse_Fox_2019 ) <br />
 (2) behavior and diease component loading at data/python_entropy_analysis <br />
 (3) data/1000_iter_10-9-2019_os.npy is output of noise simulation strategy <br />  
 
