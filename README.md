@@ -8,7 +8,7 @@
 # Data
 (1) data folder stores structural and functional images (also available at: http://brainmap.org/pubs/ or http://anima.fz-juelich.de/studies/Vanasse_Fox_2019 ) <br />
 (2) behavior and diease component loading at data/python_entropy_analysis <br />
-(3) data/1000_iter_10-9-2019_os.npy is output of noise simulation strategy <br />  
+(3) data/1000_iter_10-9-2019_os.npy is output of noise simulation strategy <br />
 (4) metabolic data can be aquired by data request to authors (https://doi.org/10.1038/s41467-019-08546-x) 
 
 # Manuscript Figures
