@@ -1,4 +1,7 @@
 # "Brain pathology recapitulates physiology: A network meta-analysis" by Vanasse & Fox et al. (2021) in Communications Biology 
+# DOI
+https://doi.org/10.1038/s42003-021-01832-9
+
 # Code
 (1) img_correlation_testing.ipynb is script testing correspondence between functional and structural components <br />
 (2) entropy_calculation.ipynb is script calculating disease/behavior diversity of components <br /> 
